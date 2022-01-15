@@ -6,7 +6,7 @@ exports.createPages = ({
 
   actions.createPage({
     path: '/dsg',
-    component: path.resolve('src/templates/dsg.tsx'),
+    component: path.resolve('src/templates/dsg.js'),
     defer: true,
   })
 }
