@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksolidgarden=self.webpackChunksolidgarden||[]).push([[691],{8308:function(e,n,l){l.r(n),l.d(n,{default:function(){return a}});var t=l(7294),r=l(5444);function a(e){return t.createElement(t.Fragment,null,t.createElement("h1",null,"Welcome to Solidgarden"),t.createElement("ul",null,t.createElement("li",null,t.createElement(r.Link,{to:"/dsg"},"DSG page")),t.createElement("li",null,t.createElement(r.Link,{to:"/ssr"},"SSR page"))))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-0ac1f8b4b9587fee231c.js.map

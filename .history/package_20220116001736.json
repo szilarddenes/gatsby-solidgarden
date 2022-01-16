@@ -1,0 +1,25 @@
+{
+  "name": "solidgarden",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A Gatsby 4 portfolio site ",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "rm -rf .cache && rm -rf public && gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "lint": "eslint --ext .js,.jsx .",
+    "format": "prettier --write --check \"!.cache\" \"!public\" ."
+  },
+  "author": "@sd",
+  "license": "0BSD",
+  "dependencies": {
+    "gatsby": "^4.0.2",
+    "node-fetch": "^2.6.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
+
+// 

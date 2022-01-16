@@ -15,11 +15,31 @@
   "author": "@sd",
   "license": "0BSD",
   "dependencies": {
+    "babel-plugin-styled-components": "^2.0.2",
+    "eslint": "^8.6.0",
+    "eslint-plugin-react": "^7.28.0",
     "gatsby": "^4.0.2",
+    "gatsby-image": "^3.11.0",
+    "gatsby-plugin-catch-links": "^4.5.0",
+    "gatsby-plugin-offline": "^5.5.1",
+    "gatsby-plugin-react-helmet": "^5.5.0",
+    "gatsby-plugin-react-svg": "^3.1.0",
+    "gatsby-plugin-robots-txt": "^1.6.14",
+    "gatsby-plugin-sharp": "^4.5.1",
+    "gatsby-plugin-sitemap": "^5.5.0",
+    "gatsby-plugin-styled-components": "^5.5.0",
+    "gatsby-remark-images": "^6.5.1",
+    "gatsby-source-filesystem": "^4.5.1",
+    "gatsby-transformer-remark": "^5.5.1",
+    "gatsby-transformer-sharp": "^4.5.0",
     "node-fetch": "^2.6.2",
+    "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-three-fiber": "^6.0.13",
+    "styled-components": "^5.3.3",
+    "three": "^0.136.0"
   }
 }
-
-// npm i babel-plugin-styled-components eslint eslint-plugin-react gatsby-image gatsby-plugin-catch-links gatsby-plugin-offline gatsby-plugin-react-helmet gatsby-plugin-react-svg gatsby-plugin-robots-txt gatsby-plugin-sharp gatsby-plugin-sitemap gatsby-plugin-styled-components gatsby-remark-images gatsby-source-filesystem gatsby-transformer-remark gatsby-transformer-sharp postcss prettier react-helmet react-three-fiber styled-components three

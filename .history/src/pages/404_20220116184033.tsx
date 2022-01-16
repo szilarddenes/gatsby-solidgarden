@@ -1,0 +1,5 @@
+const PageNotFound =()=>(
+    <div>
+    
+    </div>
+)

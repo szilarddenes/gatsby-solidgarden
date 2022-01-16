@@ -1,0 +1,1 @@
+export default const NotFound = {"not found"
