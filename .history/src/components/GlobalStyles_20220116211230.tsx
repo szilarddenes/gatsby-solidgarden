@@ -9,7 +9,7 @@ export const GlobalStyles = createGlobalStyle`
     --dark-color: hsl(0, 0%, 15%);
     --dark-color-light: hsla(0, 0%, 15%, 0.9);
     --dark-color-lighter: hsla(00, 0%, 15%, 0.7);
-    --light-color:#fff;
+    --light-color: hsl(0, 0%, 99%);
     --light-color-translucent: hsla(0, 0%, 99%, 0.92);
     --sides-padding-desktop: 3%;
     --sides-padding-mobile: 5%;

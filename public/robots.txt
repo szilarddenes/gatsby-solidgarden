@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://solid.garden/sitemap/sitemap-index.xml
-Host: https://solid.garden

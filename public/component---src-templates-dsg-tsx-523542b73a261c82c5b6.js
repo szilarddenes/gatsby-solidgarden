@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksolidgarden=self.webpackChunksolidgarden||[]).push([[587],{1010:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var r=t(7294),l=t(5444);function a(e){return r.createElement(r.Fragment,null,r.createElement(l.Link,{to:"/"},"Home"),r.createElement("br",null),r.createElement("h1",null,"DSG: Deferred Static Generation"))}}}]);
-//# sourceMappingURL=component---src-templates-dsg-tsx-523542b73a261c82c5b6.js.map

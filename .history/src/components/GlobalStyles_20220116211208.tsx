@@ -5,18 +5,17 @@ import {BREAKPOINT} from "../utils/constants"
 export const GlobalStyles = createGlobalStyle`
   :root {
     --accent-color: #00ffbb;
-    --accent-color-secondary: #6ab0f3;
+    --accent-color-secondary: #096;
     --dark-color: hsl(0, 0%, 15%);
     --dark-color-light: hsla(0, 0%, 15%, 0.9);
     --dark-color-lighter: hsla(00, 0%, 15%, 0.7);
-    --light-color:#fff;
+    --light-color: hsl(0, 0%, 99%);
     --light-color-translucent: hsla(0, 0%, 99%, 0.92);
     --sides-padding-desktop: 3%;
     --sides-padding-mobile: 5%;
 
     // EJ
-   --code-font-color: #fafafa;
-    --code-background-color: #353535; 
+   --code-font-color: #fafafa; --code-background-color: #353535; 
    --string: #92d192; 
    --variable: #f2777a; 
    --property: #abb2bf; 

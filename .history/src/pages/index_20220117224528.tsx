@@ -7,11 +7,11 @@ export default function Home(props) {
   // const { theme } = useContext(ThemeContext)
   return (
     <>
-    {/* <Seo title="solidgarden" /> */}
+    <Seo title="solidgarden" />
     <Layout>
       {/* <SEO title="solidgarden" /> */}
       <h1>Welcome to Solidgarden</h1>
-      <ToggleTheme /> 
+      <ToggleTheme />
       <ul>
         <li>
           <Link to="/dsg">DSG page</Link>

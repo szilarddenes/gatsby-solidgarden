@@ -11,7 +11,7 @@ export default function Home(props) {
     <Layout>
       {/* <SEO title="solidgarden" /> */}
       <h1>Welcome to Solidgarden</h1>
-      <ToggleTheme /> 
+      <ToggleTheme />
       <ul>
         <li>
           <Link to="/dsg">DSG page</Link>
